@@ -57,6 +57,9 @@
   <a href="https://spring.io/" target="_blank" title="Spring">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="60" height="60"/>
   </a>
+  <a href="https://www.sap.com/products/sybase-ase.html" target="_blank" title="Sybase ASE" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/sap/sap-ar21.svg" alt="Sybase ASE" width="80" height="80"/>
+  </a>
 </p>
 
 ## ✨ Databases
@@ -84,5 +87,14 @@
   </a>
   <a href="https://kubernetes.io" target="_blank" title="Kubernetes">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60" height="60"/>
+  </a>
+  <a href="https://github.com/" target="_blank" title="GitHub" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" title="Jira" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="60" height="60"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" title="Jenkins" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="60" height="60"/>
   </a>
 </p>
